@@ -39,9 +39,8 @@ I'm on a mission to build data-driven solutions that create real impact — star
 
 ```
 July 2026      → GitHub ✅ | Python setup | SQL basics | First project
-Aug–Oct 2026   → Build 3 portfolio projects | IELTS prep
-Nov–Dec 2026   → Apply for DAAD & Erasmus Mundus scholarships
-2027           → Study Data Analytics abroad
+Aug–Oct 2026   → Build 3 portfolio projects | 
+2027           → Study Data Analytics 
 2030+          → Launch my own data-driven business
 ```
 
